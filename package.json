@@ -1,0 +1,19 @@
+{
+  "name": "esi-include-plugin",
+  "version": "1.0.0",
+  "description": "This is a placeholder package. You want [@meltwater/esi-include-plugin](https://www.npmjs.com/package/@meltwater/esi-include-plugin)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsappet/esi-include-plugin.git"
+  },
+  "author": "D. Sappet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsappet/esi-include-plugin/issues"
+  },
+  "homepage": "https://github.com/dsappet/esi-include-plugin#readme"
+}
